@@ -1,0 +1,4 @@
+ADDITION = "add"
+SUBTRACTION = "sub"
+MULTIPLICATION = "mult"
+DIVISION = "div"
